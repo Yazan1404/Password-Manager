@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+
+    <string name="OneText">1</string>
+    <string name="TwoText">2</string>
+    <string name="ThreeText">3</string>
+    <string name="FourText">4</string>
+    <string name="FiveText">5</string>
+    <string name="SixText">6</string>
+    <string name="SevenText">7</string>
+    <string name="EightText">8</string>
+    <string name="NineText">9</string>
+    <string name="ZeroText">0</string>
+    <string name="konto_name">Konto Name</string>
+</resources>

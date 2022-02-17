@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#485150</color>
+    <color name="colorAccent">#ef7d00</color>
+    <!-- ACD COLORS -->
+    <color name="colorACD_blue">#164194</color>
+    <color name="colorACD_blue_dark">#001f61</color>
+    <color name="colorACD_gray">#485150</color>
+    <color name="colorACD_gray_dark">#868e94</color>
+    <color name="colorACD_lightgray1">#868e94</color>
+    <color name="colorACD_lightgray2">#d2d4d5</color>
+    <color name="colorACD_lightgray3">#f2f3f3</color>
+    <color name="colorACD_red">#d51130</color>
+    <color name="colorACD_orange">#ef7d00</color>
+    <color name="colorACD_orange_Verlauf2">#e96402</color>
+    <color name="colorACD_orange_Verlauf1">#ff8a09</color>
+    <color name="colorACD_black">#252525</color>
+    <color name="colorACD_white">#ffffff</color>
+    <color name="colorACD_green">#11d929</color>
+    <color name="ACDButtonGreen_BG">#76b72a</color>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+</resources>
